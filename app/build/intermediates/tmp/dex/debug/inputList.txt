@@ -1,0 +1,9 @@
+D:\study\my project\KnightsDealistic\app\build\intermediates\classes\debug
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-442e5c974f299e448ab5955ed334692709e4fcff.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\activation-77e0d28522ba994935d00ba13acdda4e3202c2eb.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\additionnal-825295984621fbad67c809e3add45c7f495c037a.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3292474df2e41b01005835efcdd648e84c8f637a.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\classes-38789d5506d0bbd96f8a879348684cd0d78e4606.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\mail-4a41937da6cd22d38ce7c159cbceaf7e3fdf0735.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\classes-ac2cc7db24f10f813036538d35f94ff8e95c7b36.jar
+D:\study\my project\KnightsDealistic\app\build\intermediates\pre-dexed\debug\classes-f1cc0a49320a8a2549806a2a4879fb825fff00d7.jar
